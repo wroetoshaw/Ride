@@ -3,5 +3,6 @@
 ## Installation
 No installation required
 
-### Website
-[www.ridejs.netlify.app](https://ridejs.netlify.app/)
+## Live Website
+```sh
+[www.ridejs.netlify.app](https://ridejs.netlify.app/)```
